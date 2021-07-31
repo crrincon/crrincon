@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=crrincon" alt="crrincon" /></a> </p>
 
-- 🌱 I’m currently learning **datascience**
+- 🌱 I’m currently learning **datascience & MLOps**
 
 - 👯 I’m looking to collaborate on **Machine Learning projects**
 
