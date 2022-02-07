@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crrincon&label=Profile%20views&color=0e75b6&style=flat" alt="crrincon" /> </p>
 
-- My personal Github username: [cristian-rincon](https://github.com/cristian-rincon)
+- :monocle_face: My personal Github username: [cristian-rincon](https://github.com/cristian-rincon)
 
 - 🌱 I’m currently learning **datascience & MLOps**
 
