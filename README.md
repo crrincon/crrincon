@@ -10,8 +10,6 @@
 
 - 🤝 I’m looking for help with **statistics, math**
 
-- 📝 I regularly write articles on [https://cristian-rincon.me/cristian-rincon](https://cristian-rincon.me/cristian-rincon)
-
 - 💬 Ask me about **backend, cli tools, python, automation, web scraping**
 
 - 📫 How to reach me **cristian.rincon@mercadolibre.com.co**
